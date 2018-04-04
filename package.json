@@ -1,5 +1,5 @@
 {
-  "name": "express-request-cache",
+  "name": "express-json-cache",
   "version": "1.0.0",
   "description": "A simple express middleware for caching JSON responses",
   "main": "index.js",
