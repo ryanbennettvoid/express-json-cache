@@ -1,6 +1,6 @@
 {
   "name": "express-json-cache",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "A simple express middleware for caching JSON responses",
   "main": "index.js",
   "directories": {
@@ -19,15 +19,10 @@
   "scripts": {
     "test": "tape ./test"
   },
-  "author": {
-    "name": "Ryan Bennett",
-    "email": "ryanbennettvoid@gmail.com",
-    "url": "http://wolfjournal.com"
-  },
+  "author": "",
   "bugs": {
     "url": "http://github.com/ryanbennettvoid/express-json-cache/issues"
   },
   "keywords": [],
-  "author": "",
   "license": "ISC"
 }
