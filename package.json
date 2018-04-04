@@ -1,0 +1,33 @@
+{
+  "name": "express-request-cache",
+  "version": "1.0.0",
+  "description": "A simple express middleware for caching JSON responses",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "log": "^1.4.0"
+  },
+  "devDependencies": {
+    "bluebird": "^3.5.1",
+    "express": "^4.16.3",
+    "lodash": "^4.17.5",
+    "request": "^2.85.0",
+    "tape": "^4.9.0"
+  },
+  "scripts": {
+    "test": "tape ./test"
+  },
+  "author": {
+    "name": "Ryan Bennett",
+    "email": "ryanbennettvoid@gmail.com",
+    "url": "http://wolfjournal.com"
+  },
+  "bugs": {
+    "url": "http://github.com/ryanbennettvoid/express-json-cache/issues"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
