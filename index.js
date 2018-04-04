@@ -11,7 +11,7 @@ module.exports = ( options ) => {
 
   const _options = Object.assign( {}, DEFAULT_OPTIONS, options );
 
-  const { delay, debug } = options;
+  const { delay, debug } = _options;
 
   const cache = {
     // '/path': {
